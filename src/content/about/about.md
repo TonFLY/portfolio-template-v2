@@ -1,5 +1,7 @@
-Hi there ✌️ nice to meet you! I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois.
 
-I'm an aspiring Software Engineer with a passion for writing code and making things on the web look pretty. I'm well acquainted with various *UX design* & *research methods* as well as *frontend*, *backend*, *database* and *cloud technologies*. I have always been a firm believer in the human element of design and knowing your audience. Therefore, I strive to create simple, functional and impactful user experiences.  I primarily code in **Python** and **Typescript**, and use **Adobe XD** and **Illustrator** for designing.
 
-In my free time, I love to play volleyball, watch football ⚽, cook, play the guitar, explore neighborhoods through food and occasionally bring out my inner photographer. Also, did someone say sushi? 🍣
+Olá ✌️ Prazer em te conhecer! Sou apaixonado por transformar dados em informações valiosas e que façam a diferença. Antes de mergulhar no mundo dos dados, servi como fuzileiro naval, onde desenvolvi habilidades como disciplina, trabalho em equipe e foco em resultados.
+
+Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na [UniFatecie](https://www.unifatecie.edu.br/) e concluí o curso de Análise de Dados da [EBAC](https://ebaconline.com.br/analista-de-dados). Essa combinação de experiências me permite ter uma visão única e completa do desenvolvimento de soluções.
+
+No meu tempo livre, adoro ir ao Parque da Cidade em Brasília, dar umas voltas de bike (das alugadas mesmo!), jogar CS 1.6 com a galera (sim, CS 1.6!), me aventurar no League of Legends e, pelo menos uma vez por ano, revisitar o clássico Ocarina of Time.

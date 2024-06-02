@@ -1,15 +1,22 @@
 [
     {
         "id": "featured-project-trackcta",
-        "title": "trackCTA",
-        "year": "Dec 2021 - Present",
+        "title": "EDA Loggi",
+        "year": "Maio 2024",
         "location": "Chicago",
-        "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
-        "tags": ["React", "TypeScript", "NodeJS", "Web Sockets", "i18n", "Google Maps", "GCP", "CI/CD", "Shell"],
+        "demo": "https://www.kaggle.com/code/marqu3s/loggi",
+        "github": "https://github.com/TonFLY/curso_ebac/blob/main/Projetos/analise_exploratoria_loggi.ipynb",
+        "tags": [
+            "Python",
+            "Pandas",
+            "Numpy",
+            "Geopy",
+            "Matplotlib",
+            "Seaborn"
+        ],
         "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
-        "image": "/assets/featured-projects/trackcta.webp",
-        "jpg": "/assets/featured-projects/trackcta.jpeg"
+        "image": "/assets/featured-projects/mapa_df.webp",
+        "jpg": "/assets/featured-projects/mapa_df.jpeg"
     },
     {
         "id": "featured-project-asctb-reporter",
@@ -18,7 +25,15 @@
         "location": "Indiana University",
         "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
         "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
-        "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
+        "tags": [
+            "Angular 11",
+            "TypeScript",
+            "NodeJS",
+            "NGXS",
+            "Vega",
+            "TravisCI",
+            "Open Source"
+        ],
         "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
         "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
         "image": "/assets/featured-projects/asctb.webp",
@@ -29,7 +44,6 @@
         "title": "Scrapbook",
         "year": "Jan 2021 - May 2021",
         "location": "Indiana University",
-
         "tags": [
             "Angular 11",
             "Flask",
@@ -55,7 +69,14 @@
         "location": "Indiana University",
         "title": "Measuring User Experience",
         "year": "Sep 2020 - Dec 2020",
-        "tags": ["UX Research", "User Journey", "Experience Mapping", "Surveys", "Interviews", "Adobe XD"],
+        "tags": [
+            "UX Research",
+            "User Journey",
+            "Experience Mapping",
+            "Surveys",
+            "Interviews",
+            "Adobe XD"
+        ],
         "description": "A project to quantify user experiences demonstrated by measuring the user experience of uploading a photo on Instagram.",
         "readMore": "https://hrishikeshpaul.medium.com/measuring-user-experience-an-instagram-case-study-89bfb78f2c6b",
         "image": "/assets/featured-projects/measure-ux.webp",
